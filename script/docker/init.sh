@@ -8,7 +8,7 @@ ENV_FILE=env.js
 # 自定义设置文件
 CONFIG_FILE=my_config.js
 # docker仓库
-DOCKER_REPO=shanmite/lottery_auto_docker
+DOCKER_REPO=registry.ipv6.docker.com/shanmite/lottery_auto_docker
 # cdn
 CDN=https://cdn.staticaly.com/gh/shanmiteko/LotteryAutoScript/main
 # env.example.js文件
